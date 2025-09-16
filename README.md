@@ -1,4 +1,4 @@
-<h1 align="center">🚀 FACEBOOK AD ACCOUNT CREATOR PRO</h1>
+<h1 align="center">FACEBOOK AD ACCOUNT CREATOR PRO</h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/last%20commit-june-blue" alt="last commit june">
@@ -182,8 +182,14 @@ Select your Business Manager</code></pre>
 
 <p>This tool is for educational and legitimate business purposes only. Users are responsible for complying with Facebook's Terms of Service and advertising policies. The developers are not responsible for any misuse or violations of Facebook's policies.</p>
 
-<hr>
 
+---
 <p align="center"><strong>Powered by <a href="https://hiubdn.com">hiubdn.com</a> - Enhanced Version</strong></p>
 
 <p align="center"><em>Copyright hiubdn.com - All rights reserved</em></p>
+
+<p align="center">
+<img src="https://img.shields.io/github/stars/yourusername/facebook-bm-admin-tool?style=social" alt="GitHub stars">
+<img src="https://img.shields.io/github/forks/yourusername/facebook-bm-admin-tool?style=social" alt="GitHub forks">
+<img src="https://img.shields.io/github/issues/yourusername/facebook-bm-admin-tool?style=social" alt="GitHub issues">
+</p>
