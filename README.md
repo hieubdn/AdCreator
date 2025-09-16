@@ -187,5 +187,3 @@ Select your Business Manager</code></pre>
 <p align="center"><strong>Powered by <a href="https://hiubdn.com">hiubdn.com</a> - Enhanced Version</strong></p>
 
 <p align="center"><em>Copyright hiubdn.com - All rights reserved</em></p>
-# Facebook-Account-Maker-Pro
-# Facebook-Account-Maker-Pro
