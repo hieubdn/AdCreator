@@ -1,4 +1,4 @@
-<h1 align="center">AdCreator
+<h1 align="center">AdCreator - FACEBOOK AD ACCOUNT CREATOR
    <p align="center">
       <img src="https://img.shields.io/badge/last%20commit-june-blue" alt="last commit june">
       <img src="https://img.shields.io/badge/Updated-May-green" alt="Updated May">
